@@ -1,0 +1,176 @@
+[
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  logit_matrix_ridge_regression_data.cpp /Fobuild\\win64\\logit_matrix_ridge_regression_data.obj",
+    "file": "logit_matrix_ridge_regression_data.cpp",
+    "output": "build/win64/logit_matrix_ridge_regression_data.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  rt_nonfinite.cpp /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.cpp",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  logit_matrix_ridge_regression_initialize.cpp /Fobuild\\win64\\logit_matrix_ridge_regression_initialize.obj",
+    "file": "logit_matrix_ridge_regression_initialize.cpp",
+    "output": "build/win64/logit_matrix_ridge_regression_initialize.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  logit_matrix_ridge_regression_terminate.cpp /Fobuild\\win64\\logit_matrix_ridge_regression_terminate.obj",
+    "file": "logit_matrix_ridge_regression_terminate.cpp",
+    "output": "build/win64/logit_matrix_ridge_regression_terminate.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  logit_matrix_ridge_regression.cpp /Fobuild\\win64\\logit_matrix_ridge_regression.obj",
+    "file": "logit_matrix_ridge_regression.cpp",
+    "output": "build/win64/logit_matrix_ridge_regression.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  rand.cpp /Fobuild\\win64\\rand.obj",
+    "file": "rand.cpp",
+    "output": "build/win64/rand.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  sum.cpp /Fobuild\\win64\\sum.obj",
+    "file": "sum.cpp",
+    "output": "build/win64/sum.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  sumMatrixIncludeNaN.cpp /Fobuild\\win64\\sumMatrixIncludeNaN.obj",
+    "file": "sumMatrixIncludeNaN.cpp",
+    "output": "build/win64/sumMatrixIncludeNaN.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  mod.cpp /Fobuild\\win64\\mod.obj",
+    "file": "mod.cpp",
+    "output": "build/win64/mod.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  linspace.cpp /Fobuild\\win64\\linspace.obj",
+    "file": "linspace.cpp",
+    "output": "build/win64/linspace.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  eye.cpp /Fobuild\\win64\\eye.obj",
+    "file": "eye.cpp",
+    "output": "build/win64/eye.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  assertValidSizeArg.cpp /Fobuild\\win64\\assertValidSizeArg.obj",
+    "file": "assertValidSizeArg.cpp",
+    "output": "build/win64/assertValidSizeArg.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  kron.cpp /Fobuild\\win64\\kron.obj",
+    "file": "kron.cpp",
+    "output": "build/win64/kron.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  permute.cpp /Fobuild\\win64\\permute.obj",
+    "file": "permute.cpp",
+    "output": "build/win64/permute.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  eml_mtimes_helper.cpp /Fobuild\\win64\\eml_mtimes_helper.obj",
+    "file": "eml_mtimes_helper.cpp",
+    "output": "build/win64/eml_mtimes_helper.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  mtimes.cpp /Fobuild\\win64\\mtimes.obj",
+    "file": "mtimes.cpp",
+    "output": "build/win64/mtimes.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  norm.cpp /Fobuild\\win64\\norm.obj",
+    "file": "norm.cpp",
+    "output": "build/win64/norm.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  indexShapeCheck.cpp /Fobuild\\win64\\indexShapeCheck.obj",
+    "file": "indexShapeCheck.cpp",
+    "output": "build/win64/indexShapeCheck.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  diag.cpp /Fobuild\\win64\\diag.obj",
+    "file": "diag.cpp",
+    "output": "build/win64/diag.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  pinv.cpp /Fobuild\\win64\\pinv.obj",
+    "file": "pinv.cpp",
+    "output": "build/win64/pinv.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  svd.cpp /Fobuild\\win64\\svd.obj",
+    "file": "svd.cpp",
+    "output": "build/win64/svd.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_logit_matrix_ridge_regression_api.cpp /Fobuild\\win64\\_coder_logit_matrix_ridge_regression_api.obj",
+    "file": "interface/_coder_logit_matrix_ridge_regression_api.cpp",
+    "output": "build/win64/_coder_logit_matrix_ridge_regression_api.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_logit_matrix_ridge_regression_mex.cpp /Fobuild\\win64\\_coder_logit_matrix_ridge_regression_mex.obj",
+    "file": "interface/_coder_logit_matrix_ridge_regression_mex.cpp",
+    "output": "build/win64/_coder_logit_matrix_ridge_regression_mex.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  eml_int_forloop_overflow_check.cpp /Fobuild\\win64\\eml_int_forloop_overflow_check.obj",
+    "file": "eml_int_forloop_overflow_check.cpp",
+    "output": "build/win64/eml_int_forloop_overflow_check.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  exp.cpp /Fobuild\\win64\\exp.obj",
+    "file": "exp.cpp",
+    "output": "build/win64/exp.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  log.cpp /Fobuild\\win64\\log.obj",
+    "file": "log.cpp",
+    "output": "build/win64/log.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  sqrt.cpp /Fobuild\\win64\\sqrt.obj",
+    "file": "sqrt.cpp",
+    "output": "build/win64/sqrt.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_logit_matrix_ridge_regression_info.cpp /Fobuild\\win64\\_coder_logit_matrix_ridge_regression_info.obj",
+    "file": "interface/_coder_logit_matrix_ridge_regression_info.cpp",
+    "output": "build/win64/_coder_logit_matrix_ridge_regression_info.obj"
+  },
+  {
+    "directory": "D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\\codegen\\mex\\logit_matrix_ridge_regression",
+    "command": "icl /c /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE -I\"D:\\MATLAB2023A\\extern\\include\" -I\"D:\\MATLAB2023A\\simulink\\include\" /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /DNDEBUG -Qoption,cpp,--unicode_source_kind,\"UTF-8\" /Qstd=c++11 /I \".\" /I \"D:\\MATLAB_Document2\\ADMM_BCD_new\\初值逻辑\" /I \".\\interface\" /I \"D:\\MATLAB2023A\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=logit_matrix_ridge_regression_mex -DMW_NEEDS_VERSION_H /wd4251  D:\\MATLAB2023A\\extern\\version\\cpp_mexapi_version.cpp /Fobuild\\win64\\cpp_mexapi_version.obj",
+    "file": "D:/MATLAB2023A/extern/version/cpp_mexapi_version.cpp",
+    "output": "build/win64/cpp_mexapi_version.obj"
+  }
+]
